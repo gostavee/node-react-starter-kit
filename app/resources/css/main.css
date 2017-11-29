@@ -1,0 +1,24 @@
+/**
+* General
+*/
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  outline: none;
+}
+main {
+  padding:1vw;
+  display: block;
+  overflow: hidden;
+  width:100%;
+  height: 100%;
+}
