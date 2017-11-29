@@ -18,8 +18,9 @@ It uses node,express,react,react-router, webpack and MongoDB
   install here : <a href="https://www.mongodb.com/">https://www.mongodb.com/</a>
 
 ### Installing
+Download the repo
 
-after installing node and npm, open the command line, navigate to the project directory
+after installing node and npm, download the repo, open the command line, navigate to the project directory
 
 for example in windows
 ```
